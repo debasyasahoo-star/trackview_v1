@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TrackView – Exam Lock Operations",
+  "description": "An enterprise-grade web application for managing exam lock operations, from project setup and dispatch tracking to reverse logistics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
